@@ -1,3 +1,3 @@
-# docker-ubuntu
+# maichong/ubuntu
 
-ubuntu:14.04 image built with Aliyun mirror.
+Ubuntu image built with Aliyun mirror.
